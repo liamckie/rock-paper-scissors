@@ -1,0 +1,12 @@
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\bin\Debug\netcoreapp3.1\rps.exe
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\bin\Debug\netcoreapp3.1\rps.deps.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.dev.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\bin\Debug\netcoreapp3.1\rps.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\bin\Debug\netcoreapp3.1\rps.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfoInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfo.cs
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\obj\Debug\netcoreapp3.1\rps.csproj.CoreCompileInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\obj\Debug\netcoreapp3.1\rps.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\obj\Debug\netcoreapp3.1\rps.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\rps\obj\Debug\netcoreapp3.1\rps.genruntimeconfig.cache
